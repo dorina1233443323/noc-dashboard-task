@@ -1,0 +1,12 @@
+.Active {
+    color: green;
+}
+.Warning {
+    color: yellow;
+}
+.Critical {
+    color: red;
+}
+.border {
+    border: 1px solid black;
+}
